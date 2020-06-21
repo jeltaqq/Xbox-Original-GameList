@@ -1,2 +1,2 @@
 # Xbox-Original-GameList
-Xbox Original GameList Title ID
+xbox 1st generation GameList Title ID
