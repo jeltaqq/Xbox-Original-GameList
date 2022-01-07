@@ -131,7 +131,7 @@ Charlie and the Chocolate Factory	0x54540081	Charlie and the Chocolate Factory	5
 Chase - Hollywood Stunt Driver	0x424D0001	Chase	4721
 Chessmaster	0x55530039	Chessmaster	5849
 Chicago Enforcer	0x4B420005	Chicago Enforcer	5849
-CIRCUS DRIVE			5233
+Circus Drive	0x43430005	CIRCUS DRIVE	5233
 Circus Maximus	0x45430001	CircusMaximus	4134
 Circus Maximus: Chariot Wars	0x5451000C	CircusMaximus	
 Classified: The Sentinel Crisis	0x5454007D	Classified: The Sentinel Crisis	5849
@@ -309,7 +309,7 @@ Frankie Dettori Racing (PAL)			5849
 Freaky Flyers	0x4D570007	Freaky Flyers	5455
 Freedom Fighters	0x4541002E	Freedom Fighters	5558
 Freestyle MetalX	0x4D570017	Freestyle MetalX	5455
-Freestyle Street Soccer			5558
+Freestyle Street Soccer	0x3FA2CC33	Freestyle Street Soccer	5558
 Frogger Beyond	0x4B4E0013	Frogger Beyond	4831
 Frogger: Ancient Shadow	0x4B4E002C	Frogger Ancient Shadow	5849
 Full Spectrum Warrior	0x54510022	Full Spectrum Warrior	5849
@@ -452,7 +452,7 @@ Madden 2002 	0x45410001	Madden NFL 2002	3925
 Madden NFL 06	0x45410075	Madden NFL 06	5849
 Madden NFL 07	0x4541009F	Madden NFL 07	5849
 Madden NFL 08	0x454100AC	Madden NFL 08	5849
-Madden NFL 09			5849
+Madden NFL 09	0x4541023B	Madden NFL 09	5849
 Madden NFL 2003	0x45410019	Madden NFL 2003	4432
 Madden NFL 2004	0x45410036	Madden NFL 2004	5455
 Madden NFL 2005	0x4541004D	Madden NFL 2005	5849
@@ -475,7 +475,7 @@ Mashed - Fully Loaded	0x454D001B	Mashed Fully Loaded	5849
 Mat Hoffman’s Pro BMX™ 2	0x4156000B	Mat Hoffman's Pro BMX 2	4721
 Max Payne	0x54540003	Max Payne	3925
 Max Payne 2: The Fall of Max Payne	0x5454000C	Max Payne 2	5558
-Maximum Chase			5558
+Maximum Chase	0x4D53002E	MAXIMUM CHASE	5558
 MechAssault	0x4D530017	MechAssault	4831
 MechAssault 2: Lone Wolf	0x4D53006B	MechAssault2	5849
 Medal of Honor European Assault	0x4541005E	MOH European Assault	5849
@@ -699,7 +699,7 @@ Red Dead Revolver	0x5454001A	Red Dead Revolver	5849
 Red Faction II	0x54510005	Red Faction® II	5233
 Red Ninja: End of Honor	0x56550027	End of Honor	5849
 Reign of Fire	0x424D0002	Reign Of Fire	4928
-Rent A Hero No. 1			5233
+Rent A Hero No. 1	0x5345001D	RENT A HERO No.1	5344
 Reservoir Dogs	0x534300FF	Reservoir Dogs	5849
 Return to Castle Wolfenstein: Tides of War	0x41560010	Wolfenstein	5344
 Richard Burns Rally	0x53430005	Richard Burns Rally	5849
@@ -842,7 +842,7 @@ Taito Legends	0x454D001C	Taito Legends	5849
 Taito Legends 2	0x454D0022	Taito Legends 2	5849
 Tak 2: The Staff of Dreams	0x5451008B	Tak 2  The Staff Of Dreams	5849
 Tak: The Great Juju Challenge	0x545100F4	Tak: The Great Juju Challenge	5849
-Takahashi Junko no Mah-jong Seminar			4361
+Takahashi Junko no Mahjong Seminar	0x53550005	JunkoMj	4361
 Tao Feng: Fist of the Lotus	0x4D530014	Tao Feng	5233
 Taz: Wanted	0x4947000D	Taz: Wanted	4432
 TD Overdrive	0x49470007	TD Overdrive	4361
@@ -951,7 +951,7 @@ Toxic Grind	0x54510007	Toxic Grind	4721
 TransWorld Snowboarding	0x49470004	TransWorld Snowboarding	4831
 TransWorld Surf	0x49470005	TransWorld Surf	3925
 Triangle Again	0x4B4B0001	Triangle Again	4432
-Triangle Again 2			4831
+Triangle Again 2	0x4B4B0002	Triangle Again2	4831
 Trigger Man	0x43560009	Trigger Man	5849
 Triple Play 2002	0x45410009	Triple Play 2002	3948
 Trivial Pursuit: Unhinged	0x4947003D	Trivial Pursuit: Unhinged	5849
